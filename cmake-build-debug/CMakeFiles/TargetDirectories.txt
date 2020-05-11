@@ -1,0 +1,3 @@
+/media/carter/Secondary/Projects/3dSofaProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/carter/Secondary/Projects/3dSofaProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/carter/Secondary/Projects/3dSofaProblem/cmake-build-debug/CMakeFiles/3dSofaProblem.dir

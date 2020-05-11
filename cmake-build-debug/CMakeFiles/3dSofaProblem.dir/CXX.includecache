@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/carter/Secondary/Projects/3dSofaProblem/main.cpp
+main.h
+/media/carter/Secondary/Projects/3dSofaProblem/main.h
+GL/glut.h
+-
+
+/media/carter/Secondary/Projects/3dSofaProblem/main.h
+
